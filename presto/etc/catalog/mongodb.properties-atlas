@@ -1,0 +1,4 @@
+connector.name=mongodb
+mongodb.seeds=atlas-sql-6530468257667224a94a5b7d-yzybd.a.query.mongodb.net
+mongodb.credentials=Welcome2023:Welcome2023@sample_analytics
+mongodb.ssl.enabled=true
